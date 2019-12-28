@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<conio.h>
+
+void main()
+{
+  char text[50]="To C or not to C that is the question";
+  printf("%s",text);
+  getch();
+}
